@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Map
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Map\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=mapLocation
+comment1.target=Map(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getMapLocation()
+comment3.params=mapLocation
+comment3.target=void\ setMapLocation(java.lang.String)
+numComments=4

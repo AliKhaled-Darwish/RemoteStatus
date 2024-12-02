@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=RemoteSystemServer
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ RemoteSystemServer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=observer
+comment1.target=void\ addObserver(RemoteObserver)
+comment2.params=observer
+comment2.target=void\ removeObserver(RemoteObserver)
+comment3.params=binCapacity\ batteryPercentage\ mapLocation
+comment3.target=void\ updateSystemState(int,\ int,\ java.lang.String)
+comment4.params=
+comment4.target=RemotePathFinding\ getRemotePathFinding()
+numComments=5

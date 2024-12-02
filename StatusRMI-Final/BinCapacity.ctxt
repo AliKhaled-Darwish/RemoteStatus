@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=BinCapacity
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ BinCapacity\ here.\r\n\r\n\ @author\ (Ali\ Darwish)\r\n\ @version\ (1.0)\r\n
+comment1.params=binCapacity
+comment1.target=BinCapacity(int)
+comment2.params=
+comment2.target=int\ getBinCapacity()
+comment3.params=binCapacity
+comment3.target=void\ setBinCapacity(int)
+numComments=4
